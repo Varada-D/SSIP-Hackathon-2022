@@ -1,1 +1,1 @@
-API_KEY_ASSEMBLYAI = "a7fd9fefcabd41e5991cd264d3091252"
+API_KEY_ASSEMBLYAI = "Your Secret API Key for Asswmbly AI goes here"
